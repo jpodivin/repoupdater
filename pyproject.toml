@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "repoupdater"
+name = "repoupdate"
 version = "0.1.0"
 description = "Sync your local with remote"
 authors = ["Jiri Podivin <jpodivin@redhat.com>"]
@@ -15,4 +15,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-repoupdater = 'repoupdater:main'
+repoupdate = 'repoupdate:main'
