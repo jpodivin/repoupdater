@@ -5,6 +5,8 @@ Quickly sync your local primary branch with upstream remote.
 Script checks for default branch and selects remote for you.
 
 Just type
->>> repoupdate
 
+```bash
+ repoupdate
+```
 and let it work.
